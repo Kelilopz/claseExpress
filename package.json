@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "mongodb": "^6.8.0"
+  },
+  "name": "claseexpress",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "node --watch main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
